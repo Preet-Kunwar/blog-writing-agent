@@ -33,8 +33,6 @@ Clone the repository and install the required Python packages:
 
 ```bash
 # Clone the repository
-git clone [https://github.com/yourusername/blog-writing-agent.git](https://github.com/yourusername/blog-writing-agent.git)
-cd blog-writing-agent
 
 # Install dependencies
 pip install pydantic langgraph langchain-google-genai streamlit pandas google-genai tavily-python python-dotenv
